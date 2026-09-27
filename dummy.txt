@@ -5,3 +5,5 @@ todays date
 todays date is 27/9/26
 
 GIT repo
+
+VS code editor
